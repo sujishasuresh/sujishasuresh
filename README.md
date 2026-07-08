@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there 👋 I'm Sujisha
 
-<!--
-**sujishasuresh/sujishasuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 📊 Exploring Data Science through hands-on projects.
+* 🐍 Working with **Python**, **MySQL**, and **Power BI**.
+* 🚀 Sharing my projects, experiments, and learning journey on GitHub.
+* 🛠️ Building projects from scratch to strengthen my fundamentals and problem-solving skills.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* MySQL
+* Power BI
+* NumPy
+* Pandas
+
+### About Me
+
+* 🎓 MCA graduate.
+* 💡 Interested in data analysis and turning data into meaningful insights.
+* ✨ I enjoy building simple, practical, and easy-to-understand solutions.
+* 🌱 Continuously learning and improving through projects.
