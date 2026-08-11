@@ -12,6 +12,7 @@
 * Power BI
 * NumPy
 * Pandas
+* Streamlit
 
 ### About Me
 
