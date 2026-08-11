@@ -13,7 +13,8 @@
 * NumPy
 * Pandas
 * Streamlit
-
+* Scikit-learn — Machine Learning
+  
 ### About Me
 
 * 🎓 MCA graduate.
